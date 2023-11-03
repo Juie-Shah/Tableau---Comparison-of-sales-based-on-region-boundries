@@ -1,0 +1,7 @@
+<html>
+<body>
+<div>
+<a href="https://public.tableau.com/app/profile/juie.shah/viz/comparison_of_region_based_on_sales_16981571580960/Dashboard1?publish=yes" class="details-link" title="Github Repo" target="_blank" rel="noopener"><i class="bx bx-link"></i></a>
+</div>
+</body>
+</html>
